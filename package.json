@@ -1,5 +1,5 @@
-
-  "name": "azoprojectsite",
+{
+  "name": "azo-modern-site",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -41,6 +41,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "cmdk": "^1.0.0",
+    "date-fns": "^3.6.0",
     "embla-carousel-react": "^8.1.3",
     "framer-motion": "^11.2.6",
     "input-otp": "^1.2.4",
